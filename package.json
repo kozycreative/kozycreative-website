@@ -1,0 +1,14 @@
+{
+  "name": "kozycreativewebsite",
+  "version": "1.0.0",
+  "description": "website for kozycreative bot",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kozy"
+  ],
+  "author": "akmal afiq",
+  "license": "ISC"
+}
