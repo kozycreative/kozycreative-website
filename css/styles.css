@@ -38,7 +38,7 @@
   
   @media (pointer: coarse) and (hover: none) {
     body {
-      background: url("../img/background2.png") rgb(85, 85, 85) no-repeat center center scroll;
+      background: url("https://kozycreative.com/img/background2.png") rgb(85, 85, 85) no-repeat center center scroll;
       background-position: cover;
     }
     body video {
